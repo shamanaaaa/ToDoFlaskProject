@@ -6,7 +6,7 @@ body {
 }
 
 .pen_container {
-  text-align: center;
+  text-align: left;
   padding-top: 2%;
   min-height: 80vh;
   background-image: url("/static/images/pen.jpg");
@@ -17,10 +17,6 @@ body {
 
 .menu_x {
   width: 200px;
-}
-
-.content {
-  padding-left: 35%;
 }
 
 .todo_text  {
